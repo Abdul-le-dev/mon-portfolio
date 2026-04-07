@@ -1,5 +1,6 @@
 import "./globals.css";
 import ThemeProvider from "./components/ThemeProvider";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata = {
   title: "Abdul le Dev | Développeur Web",
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
     <html lang="fr">
       <body>
         <ThemeProvider>{children}</ThemeProvider>
+        <SpeedInsights />
       </body>
     </html>
   );

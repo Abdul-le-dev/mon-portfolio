@@ -26,8 +26,6 @@ import {
 import { TbSeo } from "react-icons/tb";
 import { DiPhotoshop } from "react-icons/di";
 
-const NormalizeIcon = () => <span style={{ fontSize: "1em" }}>📄</span>;
-
 const PROJECTS_DATA = [
   {
     id: 1,
