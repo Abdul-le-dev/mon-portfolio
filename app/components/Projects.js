@@ -30,7 +30,7 @@ const NormalizeIcon = () => <span style={{ fontSize: "1em" }}>📄</span>;
 
 const PROJECTS_DATA = [
   {
-    id: 8,
+    id: 1,
     title: "BLOG TECHNOLOGIE",
     altMsg: "Photo d'un projet BLOG TECHNOLOGIE",
     image:
@@ -43,7 +43,7 @@ const PROJECTS_DATA = [
     category: "Backend",
   },
   {
-    id: 5,
+    id: 2,
     title: "HOT TAKES",
     altMsg: "Photo d'un projet HOT TAKES",
     image:
@@ -56,7 +56,7 @@ const PROJECTS_DATA = [
     category: "Backend",
   },
   {
-    id: 9,
+    id: 3,
     title: "MON VIEUX GRIMOIRE",
     altMsg: "Photo d'un projet Mon Vieux Grimoire",
     image:
@@ -69,7 +69,7 @@ const PROJECTS_DATA = [
     category: "Backend",
   },
   {
-    id: 6,
+    id: 4,
     title: "KASA",
     altMsg: "Photo d'un projet KASA",
     image:
@@ -82,7 +82,7 @@ const PROJECTS_DATA = [
     category: "Frontend",
   },
   {
-    id: 4,
+    id: 5,
     title: "KANAP",
     altMsg: "Photo d'un projet KANAP",
     image:
@@ -94,7 +94,7 @@ const PROJECTS_DATA = [
     category: "Frontend",
   },
   {
-    id: 7,
+    id: 6,
     title: "SMARTPOINT",
     altMsg: "Photo d'un projet SMARTPOINT",
     image:
@@ -106,7 +106,7 @@ const PROJECTS_DATA = [
     category: "CMS",
   },
   {
-    id: 2,
+    id: 7,
     title: "OHMYFOOD",
     altMsg: "Photo d'un projet OHMYFOOD",
     image:
@@ -119,7 +119,7 @@ const PROJECTS_DATA = [
     category: "Frontend",
   },
   {
-    id: 1,
+    id: 8,
     title: "BOOKI",
     altMsg: "Photo d'un projet BOOKI",
     image:
@@ -132,7 +132,7 @@ const PROJECTS_DATA = [
     category: "Frontend",
   },
   {
-    id: 3,
+    id: 9,
     title: "LA PANTHÈRE",
     altMsg: "Photo d'un projet LA PANTHÈRE",
     image:
