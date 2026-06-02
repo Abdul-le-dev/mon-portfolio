@@ -1131,12 +1131,12 @@ body {
     align-items: center;
     gap: 2.5rem;
     flex: 1;
-    justify-content: center;
+    justify-content: flex-end;
     transition: none;
   }
   .menu-items a {
-    font-size: 1.2rem;
-    font-weight: 550;
+    font-size: 16px;
+    font-weight: 600;
   }
 
   /* Nav actions desktop */
