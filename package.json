@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@next/swc-darwin-x64": "^16.2.7",
     "@vercel/speed-insights": "^2.0.0",
     "framer-motion": "^12.36.0",
     "lucide-react": "^0.577.0",
