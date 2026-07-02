@@ -121,7 +121,7 @@ const PROJECTS_DATA = [
     title: "BOOKI",
     altMsg: "Photo d'un projet BOOKI",
     image:
-      "https://res.cloudinary.com/doqbpkxy7/image/upload/q_auto,f_auto/v1742848370/Capture_d_e%CC%81cran_2024-05-17_a%CC%80_22.22.22_yibgmf.png",
+      "https://res.cloudinary.com/doqbpkxy7/image/upload/v1783020683/Capture_d_e%CC%81cran_2026-07-02_a%CC%80_21.29.52_kpafj4.png",
     description:
       "Intégration de la page d'accueil et de l'interface responsive pour une plateforme de réservation.",
     logos: [FaHtml5, FaCss3Alt, SiNormalizedotcss],
