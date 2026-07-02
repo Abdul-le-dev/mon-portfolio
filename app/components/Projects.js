@@ -37,7 +37,7 @@ const PROJECTS_DATA = [
       "Transformation d'un site web existant en blog technologie et en dynamique",
     logos: [FaPhp, SiPhpmyadmin, DiPhotoshop],
     codeLink: "https://github.com/mobile-zone/mobile-zone.github.io",
-    demoLink: "https://blogtechnologie.ct.ws/",
+    demoLink: "https://blogtechnologie.infinityfreeapp.com/",
     category: "Backend",
   },
   {
@@ -141,6 +141,19 @@ const PROJECTS_DATA = [
     demoLink: "https://abdul-ysuf.github.io/LaPanthere",
     codeLink: "https://github.com/Abdul-YSUF/LaPanthere",
     category: "SEO",
+  },
+  {
+    id: 10,
+    title: "La Maison Jungle",
+    altMsg: "Photo d'un projet La Maison Jungle",
+    image:
+      "https://res.cloudinary.com/doqbpkxy7/image/upload/v1783019382/Capture_d_e%CC%81cran_2026-07-02_a%CC%80_20.58.45_le2udt.png",
+    description:
+      "Application web de e-commerce de plantes, entièrement réarchitecturée et modernisée.",
+    logos: [FaReact, FaCss3Alt, FaGithub],
+    demoLink: "https://la-maison-jungle-abdul.netlify.app/",
+    codeLink: "https://github.com/Abdul-YSUF/La-maison-jungle",
+    category: "Frontend",
   },
 ];
 
