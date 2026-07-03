@@ -37,7 +37,7 @@ const PROJECTS_DATA = [
       "Transformation d'un site web existant en blog technologie et en dynamique",
     logos: [FaPhp, SiPhpmyadmin, DiPhotoshop],
     codeLink: "https://github.com/mobile-zone/mobile-zone.github.io",
-    demoLink: "https://blogtechnologie.infinityfreeapp.com/",
+    demoLink: "https://blogtechnologie.infinityfreeapp.com",
     category: "Backend",
   },
   {
@@ -63,7 +63,7 @@ const PROJECTS_DATA = [
       "Back-end complet pour une plateforme de notation de livres (optimisation d'images incluse).",
     logos: [FaNodeJs, SiMongodb, SiPostman, SiExpress],
     codeLink: "https://github.com/Abdul-YSUF/Mon-Vieux-Grimoire-Backend",
-    demoLink: "https://mvg-abdulledev.vercel.app/",
+    demoLink: "https://mvg-abdulledev.vercel.app",
     category: "Backend",
   },
   {
@@ -75,7 +75,7 @@ const PROJECTS_DATA = [
     description:
       "Application de location immobilière développée avec React et React Router.",
     logos: [FaReact, SiReactrouter, FaCss3Alt, FaGithub],
-    demoLink: "https://abdul-ysuf.netlify.app/",
+    demoLink: "https://abdul-ysuf.netlify.app",
     codeLink: "https://github.com/Abdul-YSUF/Kasa",
     category: "Frontend",
   },
@@ -87,7 +87,7 @@ const PROJECTS_DATA = [
       "https://res.cloudinary.com/doqbpkxy7/image/upload/q_auto,f_auto/v1742925492/Capture_d_e%CC%81cran_2025-03-25_a%CC%80_18.57.30_kjej9m.png",
     description: "Transformation d'un site e-commerce statique en dynamique",
     logos: [FaJs],
-    demoLink: "https://kanap-abdulledev.netlify.app/",
+    demoLink: "https://kanap-abdulledev.netlify.app",
     codeLink: "https://github.com/Abdul-YSUF/Kanap",
     category: "Frontend",
   },
@@ -99,7 +99,7 @@ const PROJECTS_DATA = [
       "https://res.cloudinary.com/doqbpkxy7/image/upload/q_auto,f_auto/v1742925997/Capture_d_e%CC%81cran_2025-03-25_a%CC%80_19.06.00_zdofyu.png",
     description: "Création d'un site web e-commerce pour le téléphone mobile",
     logos: [FaWordpress],
-    demoLink: "https://smartphone.ct.ws/",
+    demoLink: "https://smartphone.infinityfreeapp.com",
     codeLink: null,
     category: "CMS",
   },
@@ -151,7 +151,7 @@ const PROJECTS_DATA = [
     description:
       "Application web de e-commerce de plantes, entièrement réarchitecturée et modernisée.",
     logos: [FaReact, FaCss3Alt, FaGithub],
-    demoLink: "https://la-maison-jungle-abdul.netlify.app/",
+    demoLink: "https://la-maison-jungle-abdul.netlify.app",
     codeLink: "https://github.com/Abdul-YSUF/La-maison-jungle",
     category: "Frontend",
   },
