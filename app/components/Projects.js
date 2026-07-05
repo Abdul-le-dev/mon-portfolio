@@ -50,7 +50,7 @@ const PROJECTS_DATA = [
       "Construction d'une API sécurisée pour une application d'avis gastronomiques (NoSQL).",
     logos: [FaNodeJs, SiMongodb, SiExpress, SiPostman],
     demoLink: "https://hottakes-abdulledev.netlify.app/",
-    codeLink: "https://github.com/Abdul-YSUF/Piiquante",
+    codeLink: "https://github.com/Abdul-le-dev/hottakes-backend",
     category: "Backend",
   },
   {
@@ -62,7 +62,7 @@ const PROJECTS_DATA = [
     description:
       "Back-end complet pour une plateforme de notation de livres (optimisation d'images incluse).",
     logos: [FaNodeJs, SiMongodb, SiPostman, SiExpress],
-    codeLink: "https://github.com/Abdul-YSUF/Mon-Vieux-Grimoire-Backend",
+    codeLink: "https://github.com/Abdul-le-dev/Mon-Vieux-Grimoire-Backend",
     demoLink: "https://mvg-abdulledev.vercel.app",
     category: "Backend",
   },
@@ -76,7 +76,7 @@ const PROJECTS_DATA = [
       "Application de location immobilière développée avec React et React Router.",
     logos: [FaReact, SiReactrouter, FaCss3Alt, FaGithub],
     demoLink: "https://kasa-abdulledev.netlify.app",
-    codeLink: "https://github.com/Abdul-YSUF/Kasa",
+    codeLink: "https://github.com/Abdul-le-dev/Kasa",
     category: "Frontend",
   },
   {
@@ -88,7 +88,7 @@ const PROJECTS_DATA = [
     description: "Transformation d'un site e-commerce statique en dynamique",
     logos: [FaJs],
     demoLink: "https://kanap-abdulledev.netlify.app",
-    codeLink: "https://github.com/Abdul-YSUF/Kanap",
+    codeLink: "https://github.com/Abdul-le-dev/Kanap",
     category: "Frontend",
   },
   {
@@ -112,8 +112,8 @@ const PROJECTS_DATA = [
     description:
       "Site mobile-first répertoriant les menus de restaurants gastronomiques avec animations CSS.",
     logos: [FaHtml5, FaSass, FaGithub],
-    demoLink: "https://abdul-ysuf.github.io/ohmyfood",
-    codeLink: "https://github.com/Abdul-YSUF/ohmyfood",
+    demoLink: "https://abdul-le-dev.github.io/ohmyfood",
+    codeLink: "https://github.com/Abdul-le-dev/ohmyfood",
     category: "Frontend",
   },
   {
@@ -125,8 +125,8 @@ const PROJECTS_DATA = [
     description:
       "Intégration de la page d'accueil et de l'interface responsive pour une plateforme de réservation.",
     logos: [FaHtml5, FaCss3Alt, SiNormalizedotcss],
-    demoLink: "https://abdul-ysuf.github.io/Booki",
-    codeLink: "https://github.com/Abdul-YSUF/Booki",
+    demoLink: "https://abdul-le-dev.github.io/Booki",
+    codeLink: "https://github.com/Abdul-le-dev/Booki",
     category: "Frontend",
   },
   {
@@ -138,8 +138,8 @@ const PROJECTS_DATA = [
     description:
       "Amélioration du référencement (SEO) et accessibilité d'un site web existant",
     logos: [TbSeo, FaBootstrap, FaGithub],
-    demoLink: "https://abdul-ysuf.github.io/LaPanthere",
-    codeLink: "https://github.com/Abdul-YSUF/LaPanthere",
+    demoLink: "https://abdul-le-dev.github.io/LaPanthere",
+    codeLink: "https://github.com/Abdul-le-dev/LaPanthere",
     category: "SEO",
   },
   {
@@ -152,7 +152,7 @@ const PROJECTS_DATA = [
       "Application web de e-commerce de plantes, entièrement réarchitecturée et modernisée.",
     logos: [FaReact, FaCss3Alt, FaGithub],
     demoLink: "https://la-maison-jungle-abdul.netlify.app",
-    codeLink: "https://github.com/Abdul-YSUF/La-maison-jungle",
+    codeLink: "https://github.com/Abdul-le-dev/La-maison-jungle",
     category: "Frontend",
   },
 ];
