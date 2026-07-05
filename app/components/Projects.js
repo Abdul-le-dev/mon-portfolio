@@ -75,7 +75,7 @@ const PROJECTS_DATA = [
     description:
       "Application de location immobilière développée avec React et React Router.",
     logos: [FaReact, SiReactrouter, FaCss3Alt, FaGithub],
-    demoLink: "https://abdul-ysuf.netlify.app",
+    demoLink: "https://kasa-abdulledev.netlify.app",
     codeLink: "https://github.com/Abdul-YSUF/Kasa",
     category: "Frontend",
   },
